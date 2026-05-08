@@ -1,0 +1,66 @@
+{
+  "name": "image2skill",
+  "version": "2026-05-07",
+  "license": "MIT",
+  "homepage": "https://image2skill.com/",
+  "repository": "https://github.com/nickzag/image2skill",
+  "skills": [
+    {
+      "key": "neon-stickerbomb-character-posters",
+      "title": "Neon Stickerbomb Character Posters",
+      "status": "stable",
+      "sourceSiteKey": "neon-stickerbomb-character-posters",
+      "aliases": [
+        "neon stickerbomb",
+        "cyber pop character poster"
+      ],
+      "path": "skills/neon-stickerbomb-character-posters/SKILL.md",
+      "repoUrl": "https://github.com/nickzag/image2skill/tree/main/skills/neon-stickerbomb-character-posters",
+      "rawUrl": "https://raw.githubusercontent.com/nickzag/image2skill/main/skills/neon-stickerbomb-character-posters/SKILL.md",
+      "downloadUrl": "https://github.com/nickzag/image2skill/archive/refs/heads/main.zip"
+    },
+    {
+      "key": "nezha-cute-muscle",
+      "title": "Nezha cute muscle",
+      "status": "stable",
+      "sourceSiteKey": "nezha-style",
+      "aliases": [
+        "nezha-style",
+        "cute muscle",
+        "mythic cute muscle"
+      ],
+      "path": "skills/nezha-cute-muscle/SKILL.md",
+      "repoUrl": "https://github.com/nickzag/image2skill/tree/main/skills/nezha-cute-muscle",
+      "rawUrl": "https://raw.githubusercontent.com/nickzag/image2skill/main/skills/nezha-cute-muscle/SKILL.md",
+      "downloadUrl": "https://github.com/nickzag/image2skill/archive/refs/heads/main.zip"
+    },
+    {
+      "key": "glossy-character-fashion-poster",
+      "title": "Glossy Character Fashion Poster",
+      "status": "stable",
+      "sourceSiteKey": "glossy-character-fashion-poster",
+      "aliases": [
+        "glossy character",
+        "fashion poster"
+      ],
+      "path": "skills/glossy-character-fashion-poster/SKILL.md",
+      "repoUrl": "https://github.com/nickzag/image2skill/tree/main/skills/glossy-character-fashion-poster",
+      "rawUrl": "https://raw.githubusercontent.com/nickzag/image2skill/main/skills/glossy-character-fashion-poster/SKILL.md",
+      "downloadUrl": "https://github.com/nickzag/image2skill/archive/refs/heads/main.zip"
+    },
+    {
+      "key": "editorial-poster",
+      "title": "Editorial Poster",
+      "status": "stable",
+      "sourceSiteKey": "editorial-poster",
+      "aliases": [
+        "white paper editorial",
+        "loose gouache poster"
+      ],
+      "path": "skills/editorial-poster/SKILL.md",
+      "repoUrl": "https://github.com/nickzag/image2skill/tree/main/skills/editorial-poster",
+      "rawUrl": "https://raw.githubusercontent.com/nickzag/image2skill/main/skills/editorial-poster/SKILL.md",
+      "downloadUrl": "https://github.com/nickzag/image2skill/archive/refs/heads/main.zip"
+    }
+  ]
+}
