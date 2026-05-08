@@ -19,7 +19,7 @@ Initial skills:
 | Skill | Directory | Gallery key |
 |---|---|---|
 | Neon Stickerbomb Character Posters | `skills/neon-stickerbomb-character-posters` | `neon-stickerbomb-character-posters` |
-| Nezha cute muscle | `skills/nezha-cute-muscle` | `nezha-style` |
+| nezha-cute-muscle | `skills/nezha-cute-muscle` | `nezha-cute-muscle` |
 | Glossy Character Fashion Poster | `skills/glossy-character-fashion-poster` | `glossy-character-fashion-poster` |
 | Editorial Poster | `skills/editorial-poster` | `editorial-poster` |
 

@@ -1,4 +1,4 @@
-# Variants — Nezha cute muscle
+# Variants — nezha-cute-muscle
 
 ## Variant 1: Red-gold lotus warrior
 

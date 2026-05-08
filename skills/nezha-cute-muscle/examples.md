@@ -1,4 +1,4 @@
-# Nezha cute muscle — Examples
+# nezha-cute-muscle — Examples
 
 ## Red-gold lotus warrior
 

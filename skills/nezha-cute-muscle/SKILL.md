@@ -1,4 +1,4 @@
-# Nezha cute muscle
+# nezha-cute-muscle
 
 ## Purpose
 

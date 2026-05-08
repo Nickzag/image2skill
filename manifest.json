@@ -21,11 +21,10 @@
     },
     {
       "key": "nezha-cute-muscle",
-      "title": "Nezha cute muscle",
+      "title": "nezha-cute-muscle",
       "status": "stable",
-      "sourceSiteKey": "nezha-style",
+      "sourceSiteKey": "nezha-cute-muscle",
       "aliases": [
-        "nezha-style",
         "cute muscle",
         "mythic cute muscle"
       ],
