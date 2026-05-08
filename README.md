@@ -10,10 +10,10 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
 
 | Skill | Preview | Folder |
 |---|---|---|
-| Neon Stickerbomb Character Posters | <img src="skills/neon-stickerbomb-character-posters/images/sample-1.jpg" width="160" alt="Neon Stickerbomb Character Posters sample"> | [`skills/neon-stickerbomb-character-posters`](skills/neon-stickerbomb-character-posters/) |
-| nezha-cute-muscle | <img src="skills/nezha-cute-muscle/images/sample-1.jpg" width="160" alt="nezha-cute-muscle sample"> | [`skills/nezha-cute-muscle`](skills/nezha-cute-muscle/) |
-| Glossy Character Fashion Poster | <img src="skills/glossy-character-fashion-poster/images/sample-1.jpg" width="160" alt="Glossy Character Fashion Poster sample"> | [`skills/glossy-character-fashion-poster`](skills/glossy-character-fashion-poster/) |
-| Editorial Poster | <img src="skills/editorial-poster/images/sample-1.jpg" width="160" alt="Editorial Poster sample"> | [`skills/editorial-poster`](skills/editorial-poster/) |
+| Neon Stickerbomb Character Posters | <a href="https://image2skill.com/tsunade-medical-seal-apad0.html"><img src="skills/neon-stickerbomb-character-posters/images/sample-1.jpg" width="160" alt="Neon Stickerbomb Character Posters sample"></a> | [`skills/neon-stickerbomb-character-posters`](skills/neon-stickerbomb-character-posters/) |
+| nezha-cute-muscle | <a href="https://image2skill.com/nezha-red-gold-0c2vx.html"><img src="skills/nezha-cute-muscle/images/sample-1.jpg" width="160" alt="nezha-cute-muscle sample"></a> | [`skills/nezha-cute-muscle`](skills/nezha-cute-muscle/) |
+| Glossy Character Fashion Poster | <a href="https://image2skill.com/athena-asamiya-guarded-qfh52.html"><img src="skills/glossy-character-fashion-poster/images/sample-1.jpg" width="160" alt="Glossy Character Fashion Poster sample"></a> | [`skills/glossy-character-fashion-poster`](skills/glossy-character-fashion-poster/) |
+| Editorial Poster | <a href="https://image2skill.com/coffee-drinking-quiet-w9tno.html"><img src="skills/editorial-poster/images/sample-1.jpg" width="160" alt="Editorial Poster sample"></a> | [`skills/editorial-poster`](skills/editorial-poster/) |
 
 ## Gallery examples
 
@@ -36,17 +36,17 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
 ### Glossy Character Fashion Poster
 
 <p>
-  <img src="skills/glossy-character-fashion-poster/images/sample-1.jpg" width="220" alt="Glossy Character Fashion Poster sample 1">
-  <img src="skills/glossy-character-fashion-poster/images/sample-2.jpg" width="220" alt="Glossy Character Fashion Poster sample 2">
-  <img src="skills/glossy-character-fashion-poster/images/sample-3.jpg" width="220" alt="Glossy Character Fashion Poster sample 3">
+  <a href="https://image2skill.com/athena-asamiya-guarded-qfh52.html"><img src="skills/glossy-character-fashion-poster/images/sample-1.jpg" width="220" alt="Glossy Character Fashion Poster sample 1"></a>
+  <a href="https://image2skill.com/boa-hancock-pirate-jxj28.html"><img src="skills/glossy-character-fashion-poster/images/sample-2.jpg" width="220" alt="Glossy Character Fashion Poster sample 2"></a>
+  <a href="https://image2skill.com/shermie-kof-wrestling-doecp.html"><img src="skills/glossy-character-fashion-poster/images/sample-3.jpg" width="220" alt="Glossy Character Fashion Poster sample 3"></a>
 </p>
 
 ### Editorial Poster
 
 <p>
-  <img src="skills/editorial-poster/images/sample-1.jpg" width="220" alt="Editorial Poster sample 1">
-  <img src="skills/editorial-poster/images/sample-2.jpg" width="220" alt="Editorial Poster sample 2">
-  <img src="skills/editorial-poster/images/sample-3.jpg" width="220" alt="Editorial Poster sample 3">
+  <a href="https://image2skill.com/coffee-drinking-quiet-w9tno.html"><img src="skills/editorial-poster/images/sample-1.jpg" width="220" alt="Editorial Poster sample 1"></a>
+  <a href="https://image2skill.com/coffee-brewing-slow-7rqh7.html"><img src="skills/editorial-poster/images/sample-2.jpg" width="220" alt="Editorial Poster sample 2"></a>
+  <a href="https://image2skill.com/coffee-harvest-red-fn4q5.html"><img src="skills/editorial-poster/images/sample-3.jpg" width="220" alt="Editorial Poster sample 3"></a>
 </p>
 
 ## Repository layout
