@@ -25,6 +25,8 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
   <a href="https://image2skill.com/bulma-capsule-gadget-q823f.html"><img src="skills/neon-stickerbomb-character-posters/images/sample-3.jpg" width="220" alt="Neon Stickerbomb sample 3"></a>
 </p>
 
+[View more on image2skill](https://image2skill.com/selected-character-posters.html)
+
 ### nezha-cute-muscle
 
 <p>
@@ -32,6 +34,8 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
   <a href="https://image2skill.com/nezha-bikini-beach-wcsjg.html"><img src="skills/nezha-cute-muscle/images/sample-2.jpg" width="220" alt="nezha-cute-muscle sample 2"></a>
   <a href="https://image2skill.com/nezha-celestial-lotus-4b6t6.html"><img src="skills/nezha-cute-muscle/images/sample-3.jpg" width="220" alt="nezha-cute-muscle sample 3"></a>
 </p>
+
+[View more on image2skill](https://image2skill.com/selected-nezha-style.html)
 
 ### Glossy Character Fashion Poster
 
@@ -41,6 +45,8 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
   <a href="https://image2skill.com/shermie-kof-wrestling-doecp.html"><img src="skills/glossy-character-fashion-poster/images/sample-3.jpg" width="220" alt="Glossy Character Fashion Poster sample 3"></a>
 </p>
 
+[View more on image2skill](https://image2skill.com/selected-character-fashion-oster.html)
+
 ### Editorial Poster
 
 <p>
@@ -48,6 +54,8 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
   <a href="https://image2skill.com/coffee-brewing-slow-7rqh7.html"><img src="skills/editorial-poster/images/sample-2.jpg" width="220" alt="Editorial Poster sample 2"></a>
   <a href="https://image2skill.com/coffee-harvest-red-fn4q5.html"><img src="skills/editorial-poster/images/sample-3.jpg" width="220" alt="Editorial Poster sample 3"></a>
 </p>
+
+[View more on image2skill](https://image2skill.com/selected-editorial-oster.html)
 
 ## Repository layout
 
