@@ -108,6 +108,10 @@ Each skill follows the same structure:
 - `prompts/base.md`: a reusable base prompt.
 - `prompts/variants.md`: optional prompt variations.
 
+## Generated content notice
+
+The sample images and linked gallery images are model-generated outputs, mainly produced with OpenAI's GPT Image 2 model. Any logos, third-party IP references, brand-like marks, character likenesses, or portrait-like details visible in those generated images come from the model output itself and are shown only as part of the generated result. They are not official assets, endorsements, source materials, or claims of ownership by image2skill.
+
 ## License
 
 MIT for the text, prompt frameworks, and documentation in this repository.
