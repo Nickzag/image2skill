@@ -1,10 +1,10 @@
 # image2skill
 
-Reusable image-generation skills from the image2skill gallery.
+Prompt skills for stable GPT image generation.
 
-image2skill turns selected generated works into compact prompt skills. Each skill captures the visual grammar, subject structure, composition rules, and reusable prompt templates behind a consistent image style.
+This repository turns working prompts into reusable skills. A skill captures the subject structure, visual grammar, composition rules, and prompt patterns that make an image style repeatable across new subjects. The main generation target is OpenAI's GPT Image 2 model.
 
-Live gallery: <https://image2skill.com/>
+image2skill.com is the gallery for the generated results: <https://image2skill.com/>
 
 ## Skills
 
@@ -20,17 +20,17 @@ Live gallery: <https://image2skill.com/>
 ### Neon Stickerbomb Character Posters
 
 <p>
-  <img src="skills/neon-stickerbomb-character-posters/images/sample-1.jpg" width="220" alt="Neon Stickerbomb sample 1">
-  <img src="skills/neon-stickerbomb-character-posters/images/sample-2.jpg" width="220" alt="Neon Stickerbomb sample 2">
-  <img src="skills/neon-stickerbomb-character-posters/images/sample-3.jpg" width="220" alt="Neon Stickerbomb sample 3">
+  <a href="https://image2skill.com/tsunade-medical-seal-apad0.html"><img src="skills/neon-stickerbomb-character-posters/images/sample-1.jpg" width="220" alt="Neon Stickerbomb sample 1"></a>
+  <a href="https://image2skill.com/sailor-moon-moon-hggpf.html"><img src="skills/neon-stickerbomb-character-posters/images/sample-2.jpg" width="220" alt="Neon Stickerbomb sample 2"></a>
+  <a href="https://image2skill.com/bulma-capsule-gadget-q823f.html"><img src="skills/neon-stickerbomb-character-posters/images/sample-3.jpg" width="220" alt="Neon Stickerbomb sample 3"></a>
 </p>
 
 ### nezha-cute-muscle
 
 <p>
-  <img src="skills/nezha-cute-muscle/images/sample-1.jpg" width="220" alt="nezha-cute-muscle sample 1">
-  <img src="skills/nezha-cute-muscle/images/sample-2.jpg" width="220" alt="nezha-cute-muscle sample 2">
-  <img src="skills/nezha-cute-muscle/images/sample-3.jpg" width="220" alt="nezha-cute-muscle sample 3">
+  <a href="https://image2skill.com/nezha-red-gold-0c2vx.html"><img src="skills/nezha-cute-muscle/images/sample-1.jpg" width="220" alt="nezha-cute-muscle sample 1"></a>
+  <a href="https://image2skill.com/nezha-bikini-beach-wcsjg.html"><img src="skills/nezha-cute-muscle/images/sample-2.jpg" width="220" alt="nezha-cute-muscle sample 2"></a>
+  <a href="https://image2skill.com/nezha-celestial-lotus-4b6t6.html"><img src="skills/nezha-cute-muscle/images/sample-3.jpg" width="220" alt="nezha-cute-muscle sample 3"></a>
 </p>
 
 ### Glossy Character Fashion Poster
@@ -104,4 +104,4 @@ Each skill follows the same structure:
 
 MIT for the text, prompt frameworks, and documentation in this repository.
 
-Generated images shown on image2skill.com may include user-provided subjects or visual references. The sample images included here are provided as visual examples for the skills.
+Sample images are included as visual references for the skills. The full generated-image gallery lives at image2skill.com.
