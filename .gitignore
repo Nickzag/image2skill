@@ -1,25 +1,16 @@
-# OS/editor noise
+# OS/editor files
 .DS_Store
 Thumbs.db
-*.swp
-*.swo
+.vscode/
+.idea/
 
-# Local-only generation/test outputs
-outputs/
-tests/openclaw-prepublish/
-openclaw-prepublish/
-*.local.*
-
-# Secrets and local config
-.env
-.env.*
-*.pem
-*.key
-*.token
-*.secret
-
-# Dependency/cache folders
+# Dependencies and caches
 node_modules/
 .venv/
 __pycache__/
 *.pyc
+
+# Local outputs
+*.log
+dist/
+build/

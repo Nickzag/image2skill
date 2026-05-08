@@ -1,7 +1,5 @@
 # Glossy Character Fashion Poster — Examples
 
-These examples are sanitized. They avoid real logos, private workflow traces, official marks, and third-party brand instructions.
-
 ## Ice fencer fashion poster
 
 ```text

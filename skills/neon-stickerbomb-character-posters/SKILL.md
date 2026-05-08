@@ -10,11 +10,9 @@ Use for original characters, mascots, fashion figures, performers, fighters, and
 
 ## Core visual grammar
 
-- Use visual mechanics instead of third-party creator or brand references.
+- Describe the look through concrete visual mechanics rather than external style names.
 - Keep the composition intentional and repeatable.
-- Use fictional labels, abstract emblems, or unreadable graphic marks when text-like detail is needed.
-- Do not reproduce real logos, studio marks, official emblems, trademark lockups, or watermarks.
-- Do not include local/private workflow traces in prompts or examples.
+- Use invented labels or abstract graphic marks when text-like detail is needed.
 
 ## Prompt template
 
@@ -31,23 +29,17 @@ Vertical 3:4 glossy neon cyber-pop sticker-bomb character poster of [SUBJECT], r
 - `PALETTE`
 - `FICTIONAL TEXT`
 
-## Safety and desensitization rules
+## Usage notes
 
-Before publishing a prompt made from this skill:
+- Define the subject, setting, palette, and composition before writing the final prompt.
+- Keep the prompt reusable across subjects.
+- Prefer concrete visual mechanics over broad style labels.
+- Keep any text inside the image short and intentional.
 
-1. Remove private paths, session IDs, Discord/Eagle/Hermes traces, API details, and unpublished metadata.
-2. Replace real logos, brand marks, studio marks, team crests, and official symbols with generic fictional alternatives.
-3. Avoid named living-artist imitation; describe line, palette, texture, material, and composition instead.
-4. Keep examples generic unless the user owns or has rights to the subject.
-5. Do not include explicit sexual content or sexualized minor framing.
-6. Keep any creator-credit text small, in-scene, optional, and non-watermark-like.
-
-## Quality checklist
+## Quality notes
 
 - [ ] The subject is clear.
 - [ ] The style is defined by mechanics, not brand/artist names.
 - [ ] The composition has a named layout or pose system.
-- [ ] Text and labels are fictional, generic, or user-owned.
-- [ ] No real logo or official mark is requested.
+- [ ] Text and labels support the composition.
 - [ ] The prompt is short enough to use directly in an image-generation model.
-- [ ] Public examples are sanitized.

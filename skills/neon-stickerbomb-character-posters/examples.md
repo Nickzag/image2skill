@@ -1,7 +1,5 @@
 # Neon Stickerbomb Character Posters — Examples
 
-These examples are sanitized. They avoid real logos, private workflow traces, official marks, and third-party brand instructions.
-
 ## Cyber courier with foreground scanner
 
 ```text
