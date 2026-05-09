@@ -14,13 +14,6 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
 | nezha-cute-muscle | <a href="https://image2skill.com/nezha-red-gold-0c2vx.html"><img src="skills/nezha-cute-muscle/images/sample-1.jpg" width="160" alt="nezha-cute-muscle sample"></a> | [`skills/nezha-cute-muscle`](skills/nezha-cute-muscle/) |
 | Glossy Character Fashion Poster | <a href="https://image2skill.com/athena-asamiya-guarded-qfh52.html"><img src="skills/glossy-character-fashion-poster/images/sample-1.jpg" width="160" alt="Glossy Character Fashion Poster sample"></a> | [`skills/glossy-character-fashion-poster`](skills/glossy-character-fashion-poster/) |
 | Editorial Poster | <a href="https://image2skill.com/coffee-drinking-quiet-w9tno.html"><img src="skills/editorial-poster/images/sample-1.jpg" width="160" alt="Editorial Poster sample"></a> | [`skills/editorial-poster`](skills/editorial-poster/) |
-| Image-to-Skill Prompt Reverse | Reference image → GPT Image 2 prompt → reusable skill | [`skills/image-to-skill-prompt-reverse`](skills/image-to-skill-prompt-reverse/) |
-
-## Utility skill
-
-### Image-to-Skill Prompt Reverse
-
-Upload a reference image, reverse-engineer it into a standalone English prompt for OpenAI GPT Image 2, then package the reusable visual system as a skill. The process removes third-party creator names, brands, logos, official marks, watermarks, and private metadata. The final prompt includes a small natural in-scene handwritten `NickZag` signature that matches the image style.
 
 ## Gallery examples
 
@@ -85,8 +78,7 @@ Upload a reference image, reverse-engineer it into a standalone English prompt f
     │       └── variants.md
     ├── nezha-cute-muscle/
     ├── glossy-character-fashion-poster/
-    ├── editorial-poster/
-    └── image-to-skill-prompt-reverse/
+    └── editorial-poster/
 ```
 
 ## How to use a skill
@@ -96,7 +88,6 @@ Upload a reference image, reverse-engineer it into a standalone English prompt f
 3. Start from `prompts/base.md`.
 4. Replace the bracketed variables with your subject, scene, palette, pose, and constraints.
 5. Use `examples.md`, `prompts/variants.md`, and `sample-images.md` as starting points for variations.
-6. For `image-to-skill-prompt-reverse`, upload a reference image first, then use the skill to produce both a standalone GPT Image 2 prompt and a reusable skill draft.
 
 Example:
 
