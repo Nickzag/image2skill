@@ -14,6 +14,7 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
 | nezha-cute-muscle | <a href="https://image2skill.com/nezha-red-gold-0c2vx.html"><img src="skills/nezha-cute-muscle/images/sample-1.jpg" width="160" alt="nezha-cute-muscle sample"></a> | [`skills/nezha-cute-muscle`](skills/nezha-cute-muscle/) |
 | Glossy Character Fashion Poster | <a href="https://image2skill.com/athena-asamiya-guarded-qfh52.html"><img src="skills/glossy-character-fashion-poster/images/sample-1.jpg" width="160" alt="Glossy Character Fashion Poster sample"></a> | [`skills/glossy-character-fashion-poster`](skills/glossy-character-fashion-poster/) |
 | Editorial Poster | <a href="https://image2skill.com/coffee-drinking-quiet-w9tno.html"><img src="skills/editorial-poster/images/sample-1.jpg" width="160" alt="Editorial Poster sample"></a> | [`skills/editorial-poster`](skills/editorial-poster/) |
+| Vintage Disclosure Poster | <a href="https://image2skill.com/happy-trump-china-i8h1g.html"><img src="skills/vintage-disclosure-poster/images/sample-1.jpg" width="160" alt="Vintage Disclosure Poster sample"></a> | [`skills/vintage-disclosure-poster`](skills/vintage-disclosure-poster/) |
 | Silver Rebellion Anime Poster | <a href="https://image2skill.com/eva-unit-00-hfba1.html"><img src="skills/silver-rebellion-anime-poster/images/sample-1.jpg" width="160" alt="Silver Rebellion Anime Poster sample"></a> | [`skills/silver-rebellion-anime-poster`](skills/silver-rebellion-anime-poster/) |
 
 ## Gallery examples
@@ -58,6 +59,14 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
 
 [View more on image2skill](https://image2skill.com/selected-editorial-oster.html)
 
+### Vintage Disclosure Poster
+
+<p>
+  <a href="https://image2skill.com/happy-trump-china-i8h1g.html"><img src="skills/vintage-disclosure-poster/images/sample-1.jpg" width="220" alt="Vintage Disclosure Poster sample 1"></a>
+</p>
+
+[View more on image2skill](https://image2skill.com/selected-editorial-oster.html)
+
 ### Silver Rebellion Anime Poster
 
 <p>
@@ -90,6 +99,7 @@ image2skill.com is the gallery for the generated results: <https://image2skill.c
     ├── nezha-cute-muscle/
     ├── glossy-character-fashion-poster/
     ├── editorial-poster/
+    ├── vintage-disclosure-poster/
     └── silver-rebellion-anime-poster/
 ```
 
